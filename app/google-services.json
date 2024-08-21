@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315618050533",
+    "project_id": "autenticatorcompose",
+    "storage_bucket": "autenticatorcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315618050533:android:9b6d9531c74d042011af0c",
+        "android_client_info": {
+          "package_name": "com.galactapp.autenticatorcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcFcXpJ_r1y-uMj1mGL_dYEYm4aeWQG3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
